@@ -462,16 +462,17 @@ _Plugin system and community features_
 - Phase 1 (Advanced Routing) - Core functionality
 - Phase 2 (Context API) - Developer experience
 - Phase 3 (Core Middleware) - Essential features
+<!--
 
 ## 📞 **Join the Community**
 
 <!-- - **GitHub Discussions**: [Ask questions and share ideas](https://github.com/yourusername/redstone/discussions)
 - **Discord**: [Join our server](https://discord.gg/redstone) for real-time chat
 - **Issues**: [Report bugs or request features](https://github.com/yourusername/redstone/issues)
--->
 
 ---
 
+-->
 <div align="center">
 
 **⭐ Star this repo** to follow development progress!
