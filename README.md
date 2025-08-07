@@ -465,9 +465,10 @@ _Plugin system and community features_
 
 ## 📞 **Join the Community**
 
-- **GitHub Discussions**: [Ask questions and share ideas](https://github.com/yourusername/redstone/discussions)
+<!-- - **GitHub Discussions**: [Ask questions and share ideas](https://github.com/yourusername/redstone/discussions)
 - **Discord**: [Join our server](https://discord.gg/redstone) for real-time chat
 - **Issues**: [Report bugs or request features](https://github.com/yourusername/redstone/issues)
+-->
 
 ---
 
